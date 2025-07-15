@@ -1,0 +1,3 @@
+﻿@baseUrl = https://localhost:7022
+
+GET {{baseUrl}}/add/3/2

@@ -1,0 +1,8 @@
+﻿@baseUrl = https://localhost:7277
+
+POST {{baseUrl}}/chat
+Accept: application/json
+Content-Type: application/json
+{
+    "input": "Şu cümleyi Türkçe'ye çevir : 'Here’s the updated'"
+}
